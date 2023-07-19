@@ -1,0 +1,39 @@
+Name suggestions:
+Você é um roteirista de podcast, e vamos criar um podcast sobre o mundo literário, focado em livros de mistério e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de literatura feito de maneira mais informal, e que tenha algum trocadilho nerd e relacionado a livros no nome.
+
+O podcast vai dar dicas de livros de mistério e falar sobre as novidades do mundo literário.
+
+{REGRAS}
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nomes de livros conhecidas de autores como Agatha Christie, Jo Nesbo e Harlan Coben.
+- O nome deve conter alguma palavra forte que remeta a um livro de mistério famoso.
+
+{REGRAS NEGATIVAS}
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: horror, desafio
+- Não utilize a palavra mistério no nome nem qualquer variação dela
+
+Script:
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast literário, focado em livros de mistério cujo nome é "Entre Crimes e Páginas: Explorando o suspense literário, desvendando mistérios" e tem foco em livros de mistério,  com o público alvo de leitores assíduos de livros envolvendo mistérios
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[RECOMENDAÇÃO DE LIVRO DE MISTÉRIO]
+[BREVE SINOPSE DO LIVRO]
+[EXPLICAÇÃO DE PORQUE O LIVRO VALE A PENA SER LIDO]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Pam Golçalves'
+- no bloco RECOMENDAÇÃO DE LIVRO DE MISTÉRIO substitua por uma recomendação de livro de mistério.
+- no bloco [BREVE SINOPSE DO LIVRO] dê uma breve sinopse do livro que foi recomendado acima.
+- no bloco [FINALIZAÇÃO] substitua por uma despedida interessante com o final 'Eu sou Eliandra e essa foi a recomendação misteriosa da semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Eliandra
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use palavras difíceis
+- Não ultrapasse 5 minutos de duração
